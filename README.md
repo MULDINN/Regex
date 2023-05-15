@@ -5,6 +5,7 @@ A regex checker developed by me, a Computer Science student at Instituto Federal
 
 # Exemplos a seguir: 
 Neste primeiro caso temos a seguinte regex [0-9][\w]{2,8}[a-zA-Z] (Uma simples expressão regular para validar senhas.)
+
 In this first case we have the following regex [0-9][\w]{2,8}[a-zA-Z] (A simple regular expression to validate passwords.)
           
 Caso válido: 
